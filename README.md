@@ -6,3 +6,4 @@
 - [File-Organizer](https://github.com/manncodes/Python-scripts-I-use/tree/master/File-Organizer)
 - [Folder Locker & Hider](https://github.com/manncodes/Python-scripts-I-use/tree/master/Folder Locker & Hider)
 - [RSA_Communication](https://github.com/manncodes/Python-scripts-I-use/tree/master/RSA_Communication)
+- [IMDBQuerier](https://github.com/manncodes/Python-scripts-I-use/tree/master/IMDBQuerier)
