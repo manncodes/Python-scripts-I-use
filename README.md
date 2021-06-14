@@ -10,3 +10,4 @@
 - [Take_screenshot](https://github.com/manncodes/Python-scripts-I-use/tree/master/Take_screenshot)
 - [Rock-Paper-Scissor](https://github.com/manncodes/Python-scripts-I-use/tree/master/Rock-Paper-Scissor)
 - [Py_Cleaner](https://github.com/manncodes/Python-scripts-I-use/tree/master/Py_Cleaner)
+- [Work_Log_Generator](https://github.com/manncodes/Python-scripts-I-use/tree/master/Work_Log_Generator)
