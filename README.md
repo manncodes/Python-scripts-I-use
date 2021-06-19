@@ -15,3 +15,4 @@
 - [Tweets_Tool](https://github.com/manncodes/Python-scripts-I-use/tree/master/Tweets_Tool)
 - [Directory-organizer](https://github.com/manncodes/Python-scripts-I-use/tree/master/Directory-organizer)
 - [Bitcoin-Price-GUI](https://github.com/manncodes/Python-scripts-I-use/tree/master/Bitcoin-Price-GUI)
+- [mailing](https://github.com/manncodes/Python-scripts-I-use/tree/master/mailing)
