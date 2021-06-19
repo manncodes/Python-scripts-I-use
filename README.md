@@ -4,7 +4,7 @@
 - [Github_Bot](https://github.com/manncodes/Python-scripts-I-use/tree/master/Github_Bot)
 - [imageWatermarker](https://github.com/manncodes/Python-scripts-I-use/tree/master/imageWatermarker)
 - [File-Organizer](https://github.com/manncodes/Python-scripts-I-use/tree/master/File-Organizer)
-- [Folder Locker & Hider](https://github.com/manncodes/Python-scripts-I-use/tree/master/Folder Locker & Hider)
+- [Folder Locker-&=Hider](https://github.com/manncodes/Python-scripts-I-use/tree/master/Folder-Locker-&-Hider)
 - [RSA_Communication](https://github.com/manncodes/Python-scripts-I-use/tree/master/RSA_Communication)
 - [IMDBQuerier](https://github.com/manncodes/Python-scripts-I-use/tree/master/IMDBQuerier)
 - [Take_screenshot](https://github.com/manncodes/Python-scripts-I-use/tree/master/Take_screenshot)
@@ -13,6 +13,9 @@
 - [Work_Log_Generator](https://github.com/manncodes/Python-scripts-I-use/tree/master/Work_Log_Generator)
 - [Wifi-Password](https://github.com/manncodes/Python-scripts-I-use/tree/master/Wifi-Password)
 - [Tweets_Tool](https://github.com/manncodes/Python-scripts-I-use/tree/master/Tweets_Tool)
+<<<<<<< HEAD
 - [Directory-organizer](https://github.com/manncodes/Python-scripts-I-use/tree/master/Directory-organizer)
 - [Bitcoin-Price-GUI](https://github.com/manncodes/Python-scripts-I-use/tree/master/Bitcoin-Price-GUI)
 - [mailing](https://github.com/manncodes/Python-scripts-I-use/tree/master/mailing)
+=======
+>>>>>>> d4c88c510b48a355c2c44679161fb6ece98595f8
