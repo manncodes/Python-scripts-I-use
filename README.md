@@ -21,3 +21,4 @@
 >>>>>>> d4c88c510b48a355c2c44679161fb6ece98595f8
 
 - [FramedText](https://github.com/manncodes/Python-scripts-I-use/tree/master/FramedText)
+- [PDF2text](https://github.com/manncodes/Python-scripts-I-use/tree/master/PDF2text)
