@@ -23,3 +23,4 @@
 - [codeforcesChecker](https://github.com/manncodes/Python-scripts-I-use/tree/master/codeforcesChecker)
 - [Fibonacci_Sequence_Generator](https://github.com/manncodes/Python-scripts-I-use/tree/master/Fibonacci_Sequence_Generator)
 - [Current_City_Weather](https://github.com/manncodes/Python-scripts-I-use/tree/master/Current_City_Weather)
+- [SSH_Host_Adder](https://github.com/manncodes/Python-scripts-I-use/tree/master/SSH_Host_Adder)
