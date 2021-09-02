@@ -20,3 +20,4 @@
 - [PDF2text](https://github.com/manncodes/Python-scripts-I-use/tree/master/PDF2text)
 - [Contact-Distribution](https://github.com/manncodes/Python-scripts-I-use/tree/master/Contact-Distribution)
 - [English_Theasauras](https://github.com/manncodes/Python-scripts-I-use/tree/master/English_Theasauras)
+- [codeforcesChecker](https://github.com/manncodes/Python-scripts-I-use/tree/master/codeforcesChecker)
