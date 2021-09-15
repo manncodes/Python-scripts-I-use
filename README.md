@@ -26,3 +26,4 @@
 - [SSH_Host_Adder](https://github.com/manncodes/Python-scripts-I-use/tree/master/SSH_Host_Adder)
 - [Find-PhoneNumber-in-String](https://github.com/manncodes/Python-scripts-I-use/tree/master/Find-PhoneNumber-in-String)
 - [DOH-Dig](https://github.com/manncodes/Python-scripts-I-use/tree/master/DOH-Dig)
+- [Color_to_BW_Converter](https://github.com/manncodes/Python-scripts-I-use/tree/master/Color_to_BW_Converter)
