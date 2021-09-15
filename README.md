@@ -25,3 +25,4 @@
 - [Current_City_Weather](https://github.com/manncodes/Python-scripts-I-use/tree/master/Current_City_Weather)
 - [SSH_Host_Adder](https://github.com/manncodes/Python-scripts-I-use/tree/master/SSH_Host_Adder)
 - [Find-PhoneNumber-in-String](https://github.com/manncodes/Python-scripts-I-use/tree/master/Find-PhoneNumber-in-String)
+- [DOH-Dig](https://github.com/manncodes/Python-scripts-I-use/tree/master/DOH-Dig)
