@@ -28,3 +28,4 @@
 - [DOH-Dig](https://github.com/manncodes/Python-scripts-I-use/tree/master/DOH-Dig)
 - [Color_to_BW_Converter](https://github.com/manncodes/Python-scripts-I-use/tree/master/Color_to_BW_Converter)
 - [Face_recognition](https://github.com/manncodes/Python-scripts-I-use/tree/master/Face_recognition)
+- [Algebra-Solver](https://github.com/manncodes/Python-scripts-I-use/tree/master/Algebra-Solver)
