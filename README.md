@@ -30,3 +30,4 @@
 - [Face_recognition](https://github.com/manncodes/Python-scripts-I-use/tree/master/Face_recognition)
 - [Algebra-Solver](https://github.com/manncodes/Python-scripts-I-use/tree/master/Algebra-Solver)
 - [Website-Blocker](https://github.com/manncodes/Python-scripts-I-use/tree/master/Website-Blocker)
+- [Excel_Files_Merger](https://github.com/manncodes/Python-scripts-I-use/tree/master/Excel_Files_Merger)
